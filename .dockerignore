@@ -1,0 +1,7 @@
+# Archivos y directorios para ignorar
+.git
+.gitignore
+node_modules
+dist
+tmp
+*.md
